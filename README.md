@@ -1,4 +1,4 @@
-## Getting Started
+## Super Rocketseat
 
 ![image](https://user-images.githubusercontent.com/23580648/158920379-4b8162b0-fe70-4383-bdf7-50ee162a777c.png)
 
