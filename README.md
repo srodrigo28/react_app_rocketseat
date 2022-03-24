@@ -4,6 +4,11 @@
 https://app.rocketseat.com.br/node/chapter-iv-1/group/configurando-projeto/lesson/configurando-chakra-ui
 ```
 
+* Ultimo visto: 
+```
+https://app.rocketseat.com.br/node/chapter-iv-1/group/configurando-projeto/lesson/configurando-fonte
+```
+
 ``` NextJS
 https://nextjs.org/docs/getting-started
 ```
